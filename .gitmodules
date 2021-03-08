@@ -1,0 +1,3 @@
+[submodule "BANGC_Gemm_Tutorial"]
+	path = BANGC_Gemm_Tutorial
+	url = https://github.com/CambriconECO/BANGC_Gemm_Tutorial.git

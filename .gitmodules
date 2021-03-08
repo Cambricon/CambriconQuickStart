@@ -1,3 +1,6 @@
 [submodule "BANGC_Gemm_Tutorial"]
 	path = BANGC_Gemm_Tutorial
 	url = https://github.com/CambriconECO/BANGC_Gemm_Tutorial.git
+[submodule "Caffe_Yolov3_Inference"]
+	path = Caffe_Yolov3_Inference
+	url = https://github.com/CambriconECO/Caffe_Yolov3_Inference.git

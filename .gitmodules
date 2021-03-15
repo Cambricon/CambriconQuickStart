@@ -4,3 +4,6 @@
 [submodule "Caffe_Yolov3_Inference"]
 	path = Caffe_Yolov3_Inference
 	url = https://github.com/CambriconECO/Caffe_Yolov3_Inference.git
+[submodule "Pytorch_Yolov5_Inference"]
+	path = Pytorch_Yolov5_Inference
+	url = https://github.com/CambriconECO/Pytorch_Yolov5_Inference.git

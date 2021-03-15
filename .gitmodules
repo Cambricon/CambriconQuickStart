@@ -7,3 +7,6 @@
 [submodule "Pytorch_Yolov5_Inference"]
 	path = Pytorch_Yolov5_Inference
 	url = https://github.com/CambriconECO/Pytorch_Yolov5_Inference.git
+[submodule "BANGC_Yolov3_Tutorial"]
+	path = BANGC_Yolov3_Tutorial
+	url = https://github.com/CambriconECO/BANGC_Yolov3_Tutorial.git

@@ -10,3 +10,6 @@
 [submodule "BANGC_Yolov3_Tutorial"]
 	path = BANGC_Yolov3_Tutorial
 	url = https://github.com/CambriconECO/BANGC_Yolov3_Tutorial.git
+[submodule "Pytorch_RollCall_Recognition"]
+	path = Pytorch_RollCall_Recognition
+	url = https://github.com/CambriconECO/Pytorch_RollCall_Recognition.git
